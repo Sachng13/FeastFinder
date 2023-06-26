@@ -55,7 +55,7 @@ Discription : Details about the movie. After clicking on info icon.
 
 <h3>Live preview link :-</h3>
 
-https://sachng13.github.io/moviePedia/
+https://sachng13.github.io/FeastFinder/
 
 
 <h2>Thank You.....</h2>
