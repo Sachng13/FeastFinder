@@ -44,7 +44,6 @@ function loadSearchItem(searchedItem) {
 //  display the list on main............
 
 function renderList(resultList) {
-    console.log(resultList);
     if (resultList != undefined) {
         displaySearchItem.innerHTML = "";
         for (var i = 0; i < resultList.length; i++) {
@@ -127,11 +126,7 @@ function addingElementToFavourite(data) {
     <i class="fa-solid fa-trash-can fa-lg un-fav-icon" data-id=${data.idMeal}></i>
     </div>
     </div>`
-    if (asideMain.innerHTML == noFavItem) {
-        asideMain.innerHTML = "";
-    }
     asideMainFavList.append(favMeal);
-    asideMain.append(asideMainFavList);
     saveData();
 }
 
@@ -142,9 +137,6 @@ function removeMealFromFav(e){
         asideMainFavList.removeChild(asideMainFavList.children[x]);
    }
  }
-   if (asideMainFavList.children.length==0){
-    asideMain.innerHTML=noFavItem;
-   }
    saveData()
 }
 
@@ -167,9 +159,9 @@ function clickEventHandlers(e){
  }
 }
 function saveData(){
-    localStorage.setItem("xdata",asideMain.innerHTML);
+    localStorage.setItem("xdata",asideMainFavList.innerHTML);
 }
 function displayData(){
-    asideMain.innerHTML=localStorage.getItem("xdata");
+    asideMainFavList.innerHTML=localStorage.getItem("xdata");
 }
 displayData();

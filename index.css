@@ -213,10 +213,3 @@ aside{
  .fav-meals-details p{
     margin: 0;
 } 
-#noFavItem{
-    position: absolute;
-    right: 12%;
-    top: 50%;
-    color: #3a3a3a;
-
-}
