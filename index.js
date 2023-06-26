@@ -163,7 +163,7 @@ function clickEventHandlers(e){
  }
 
  if (e.target.className=="fa-solid fa-circle-info"){
-    window.location.href=`mealPage/index.html?id=${e.target.dataset.id}`;
+    window.location.href=`mealPage/home.html?id=${e.target.dataset.id}`;
  }
 }
 function saveData(){

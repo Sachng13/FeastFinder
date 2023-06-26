@@ -8,7 +8,7 @@ const backButton=document.getElementById("back");
 backButton.addEventListener("click",backToHome);
 
 function backToHome(){
-    window.location.href="../home.html";
+    window.location.href="../index.html";
 }
 
 const x = fetch(`https://www.themealdb.com/api/json/v1/1/lookup.php?i=${mealId}`);
