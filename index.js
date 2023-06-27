@@ -12,8 +12,6 @@ const asideMain = document.getElementById("aside-main");
 
 const asideMainFavList=document.getElementById("aside-main-fav-list");
 
-var noFavItem = asideMain.innerHTML;
-
 
 
 
