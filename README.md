@@ -21,34 +21,41 @@ THANK YOU......
 
 Discription : So this is how the front Page of our project looks.
 
-![image](https://github.com/Sachng13/FeastFinder/assets/132441441/899c2992-0e46-4610-838d-04e663558b33)
+<img width="960" alt="Screenshot 2023-06-27 102320" src="https://github.com/Sachng13/FeastFinder/assets/132441441/79c70a84-06f3-47d1-b834-4d0c5fe4ae0c">
+
+
 
 
 <h3>After searching :</h3>
 
 Discription : When we search this is how it looks with related search results.
 
-![image](https://github.com/Sachng13/FeastFinder/assets/132441441/c488ad77-2b7f-48f0-aad8-37af43a7bcc1)
+<img width="960" alt="Screenshot 2023-06-27 102444" src="https://github.com/Sachng13/FeastFinder/assets/132441441/92bf6fcf-ecf5-4660-87c7-d55b0b742239">
 
-![image](https://github.com/Sachng13/FeastFinder/assets/132441441/f4742bb1-1f03-4d98-bdc6-7a01ac87dcf5)
+<img width="960" alt="Screenshot 2023-06-27 102547" src="https://github.com/Sachng13/FeastFinder/assets/132441441/5bbe9ef2-6875-484f-ba98-c49ee768d18e">
 
-![image](https://github.com/Sachng13/FeastFinder/assets/132441441/6715194b-ffe4-4950-9011-95764c2296eb)
+<img width="960" alt="Screenshot 2023-06-27 102617" src="https://github.com/Sachng13/FeastFinder/assets/132441441/bbe33dee-e5d3-489a-9864-228ab702fc71">
+
+
+
 
 
 <h3>Adding to favourites :</h3>
 
-Discription : When we add movies to favourites this is how it looks.
+Discription : When we add meals to favourites this is how it looks.
 
-![image](https://github.com/Sachng13/FeastFinder/assets/132441441/20872572-a035-4b64-89d8-4bbc796a510f)
+<img width="960" alt="Screenshot 2023-06-26 212919" src="https://github.com/Sachng13/FeastFinder/assets/132441441/011849d7-da0f-47d6-8689-388bd055aa2b">
 
 
-<h3>Movie details :</h3>
 
-Discription : Details about the movie. After clicking on info icon.
+<h3>Meals details :</h3>
 
-![image](https://github.com/Sachng13/FeastFinder/assets/132441441/9177d119-efac-49f0-89da-6d561678dcef)
+Discription : Details about the meals. After clicking on info icon.
 
-![image](https://github.com/Sachng13/FeastFinder/assets/132441441/336ecc78-144e-4781-b9d5-0d81c994f8cd)
+<img width="960" alt="Screenshot 2023-06-26 213025" src="https://github.com/Sachng13/FeastFinder/assets/132441441/29e232e2-5a7b-4bcb-bd20-b0ca41a970fe">
+
+<img width="960" alt="Screenshot 2023-06-26 213102" src="https://github.com/Sachng13/FeastFinder/assets/132441441/8511af97-822c-40ea-a5f5-3129acf40be6">
+
 
 
 <h2>How to Use :</h2>
