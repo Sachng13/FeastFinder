@@ -2,9 +2,9 @@
 
 <h2>Technology Used :</h2>
 <ul>
-  <li>HTML - 16.9% </li>
-  <li>CSS -43.0% </li>
-  <li>JavaScript - 40.1%</li>
+<li>HTML - 16.9% </li>
+<li>CSS -43.0% </li>
+<li>JavaScript - 40.1%</li>
 </ul>
 <h2>Project Name :</h2>
 
@@ -12,7 +12,7 @@ FeastFinder
 
 <h2>About Project :</h2>
 
-This is a desktop only web application named FeastFinder.In this we can search meals by their names . After searching some related results will be shown their. We can add meals to favourites by clicking on the icon. Favourites list will be persistent that means if we close or refresh the browser our saved favourites meals will not be lost. By clicking on info icon we can see some more details about the meals. 
+This is a desktop only web application named FeastFinder.In this we can search meals by their names . After searching some related results will be shown their. We can add meals to favourites by clicking on the icon. Favourites list will be persistent that means if we close or refresh the browser our saved favourites meals will not be lost. By clicking on info icon we can see some more details about the meals.
 THANK YOU......
 
 <h2>Our Project Details</h2>
@@ -59,7 +59,6 @@ https://sachng13.github.io/FeastFinder/
 
 
 <h2>Thank You.....</h2>
-
 
 
 
