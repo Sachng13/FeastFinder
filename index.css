@@ -42,7 +42,7 @@
 }
 #search-input {
     background:transparent;
-    color: aliceblue;
+    color: rgb(154, 174, 191);
     border: 1px solid #a3a3fa;
 }
 #search-input:focus{
